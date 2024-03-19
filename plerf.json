@@ -1,0 +1,8 @@
+{
+  "name": "PLERF",
+  "symbol": "PLERF",
+  "description": "PLERF brings structure to Solana with its own unique Pimpocracy",
+  "image": "https://raw.githubusercontent.com/PlerfSOL/plerf/main/logo.png",
+  "uri": "https://raw.githubusercontent.com/PlerfSOL/plerf/main/plerf.json",
+  "seller_fee_basis_points": 0
+}
